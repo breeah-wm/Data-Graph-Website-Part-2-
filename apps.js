@@ -9,7 +9,7 @@ var main = function(){
     });
 
     $('#three').click(function(){
-        $('#three').attr('src', 'http://cdn.thewire.com/media/img/upload/wire/2014/02/12/RTX18EIW/lead_large.jpgg');
+        $('#three').attr('src', 'http://cdn.thewire.com/media/img/upload/wire/2014/02/12/RTX18EIW/lead_large.jpg');
     });
 
     $('#four').click(function(){
@@ -33,7 +33,7 @@ var main = function(){
     });
 
     $('#nine').click(function(){
-        $('#nine').attr('http://i.ytimg.com/vi/WZh6jCLGwrg/maxresdefault.jpg')
+        $('#nine').attr('src','http://i.ytimg.com/vi/WZh6jCLGwrg/maxresdefault.jpg')
     });
 
 };
